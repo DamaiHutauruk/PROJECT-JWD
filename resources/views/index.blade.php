@@ -19,7 +19,7 @@
               <span>
                 Daftar Sekarang
               </span>
-              <!-- <img src="/template/images/right-arrow.png" alt=""> -->
+              <!--  <img src="/template/images/right-arrow.png" alt=""> -->
             </a>
           </div>
         </div>
