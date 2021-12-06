@@ -8,10 +8,10 @@
             Website PPDB Online
           </h3>
           <h1>
-            PKBM Nurul Jadid
+            PKBM KITA BERSAMA
           </h1>
           <p>
-            PKBM Nurul Jadid Tambakboyo menyelenggarakan pendidikan kesetaraan paket A/B/C, Pendidikan Keaksaraan Fungsional/KF (bagi Buta Aksara) & Kursus Komputer <br>
+            PKBM Kita Bersama menyelenggarakan pendidikan kesetaraan paket A/B/C & Kursus Komputer <br>
             Daftarkan diri anda sekarang juga.
           </p>
           <div class="hero_btn-continer">
@@ -39,33 +39,17 @@
     <section class="client_section layout_padding">
         <div class="container">
         <h2 class="main-heading ">
-            Tentang Lembaga
+            Tentang PKBM
         </h2>
         <p class="text-center">
-            PKBM Nurul Jadid Tambakboyo merupakan embaga swadaya masyarakat (LSM) yang bergerak dalam bidang pendidikan yang berada dibawah naungan Yayasan Pondok Pesantren Fathimiyyah, dan telah terdaftar di Dinas Pendidikan Kabupaten Tuban.<br>
-            Yang mana di PKBM Nurul Jadid menyelenggarakan program-program pendidikan diantaranya : <br>
-            1. Pendidikan Kesetaraan Paket A, B, dan C. <br>
-            2. Pendidikan Keaksaraan Fungsional/KF (bagi Buta Aksara) <br>
-            3. Kursus Komputer <br>
-            4. Dll.
+            PKBM Kita Bersama merupakan adalah lembaga yang dibentuk oleh masyarakat untuk masyarakat yang bergerak dalam bidang pendidikan Non Formal. PKBM ini masih berada di bawah pengawasan dan bimbingan dari Dinas Pendidikan Nasional. Sebagai salah satu satuan pendidikan non formal, PKBM diharapkan dapat menjadi wadah bagi kegiatan masyarakat untuk lebih meningkatkan potensi diri dan keterampilan.
         </p>
+        
         <div class="about_img-box ">
-            <img src="/template/images/npsn.jpg" alt="" class="img-fluid w-100">
+            <img src="/template/images/dokumentasi1.jpg" alt="" class="img-fluid w-100">
         </div>
         <div class="d-flex justify-content-center mt-5">
-            <a href="/template/images/npsn.jpg" target="_blank" class="call_to-btn  ">
-
-            <span>
-                Lihat Detail 
-            </span>
-            <img src="/template/images/right-arrow.png" alt="">
-            </a>
-        </div>
-        <div class="about_img-box ">
-            <img src="/template/images/ijin_operasional.jfif" alt="" class="img-fluid w-100">
-        </div>
-        <div class="d-flex justify-content-center mt-5">
-            <a href="/template/images/ijin_operasional.jfif" target="_blank" class="call_to-btn  ">
+            <a href="/template/images/dokumentasi1.jpg" target="_blank" class="call_to-btn  ">
 
             <span>
                 Lihat Detail 

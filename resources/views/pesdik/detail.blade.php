@@ -2,12 +2,12 @@
 @section('judul')
     <section class="client_section layout_padding">
       <div class="container">
-        <h1 class="text-center text-warning">
+        <h1 class="main-heading">
             <b>Detail Calon Peserta Didik</b> 
         </h1>
-        <h5 class="text-center text-warning">
+        <h5 class="text-center">
           Data telah terdaftar, Silahkan konfirmasi pendaftaran ke nomor WA : <br>
-          H. Suwardi : 0813-3024-9901 / Kukoh Santoso : 0852-3207-7932
+          Damai Hutauruk : 0812-3456-7890
         </h5>
       </div>
     </section>

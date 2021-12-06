@@ -2,7 +2,7 @@
 @section('judul')
     <section class="client_section layout_padding">
       <div class="container">
-        <h1 class="text-center text-warning">
+        <h1 class="main-heading">
             <b>Formulir Pendaftaran</b>
           </h1>
       </div>

@@ -102,6 +102,6 @@ class PesdikController extends Controller
 
     public function export() 
     {
-        return Excel::download(new PesdikExport, 'PPDB_Online_NurulJadid.xlsx');
+        return Excel::download(new PesdikExport, 'PPDB_Online_KitaBersama.xlsx');
     }
 }

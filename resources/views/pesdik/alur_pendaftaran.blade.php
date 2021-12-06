@@ -2,7 +2,7 @@
 @section('judul')
     <section class="client_section layout_padding">
       <div class="container">
-        <h1 class="text-center text-warning">
+        <h1 class="main-heading">
             <b>Alur Pendaftaran Online</b>
           </h1>
       </div>
@@ -58,8 +58,7 @@
                         <p class="lead  my-1 mr-sm-1">3. Konfirmasi Pendaftaran</p>
 						<blockquote class="generic-blockquote">
                             <ol class="my-1 mr-sm-1">Setelah melakukan pengisian Formulir secara online, harap melakukan konfirmasi pendaftaran ke nomor : </ol>
-                            <ol class="my-1 mr-sm-1">a. H. Suwardi : 0813-3024-9901</ol>
-                            <ol class="my-1 mr-sm-1">b. Kukoh Santoso : 0852-3207-7932</ol>
+                            <ol class="my-1 mr-sm-1">a. Damai Hutauruk : 0812-3456-7890</ol>
 						</blockquote>
 					</div>
 				</div>

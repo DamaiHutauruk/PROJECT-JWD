@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>PPDB Online PKBM Nurul Jadid</title>
+  <title>PPDB Online PKBM Kita Bersama</title>
 
 
 
@@ -47,7 +47,7 @@
           <a class="navbar-brand" href="/">
             <img src="/template/images/logo.png" alt="">
             <span>
-              PKBM Nurul Jadid
+              PKBM Kita Bersama
             </span>
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -86,8 +86,7 @@
   <!-- footer section -->
   <section class="container-fluid footer_section">
     <p>
-      Copyright &copy; 2020 PKBM Nurul Jadid Tambakboyo | 
-      <a href="https://www.youtube.com/channel/UCHO5t3O1satYKfGnlxGDVsg/playlists?view_as=subscriber">Developed By : Qkoh St.</a>
+      Copyright &copy; 2021 PKBM Kita Bersama | Developed By : Damai
     </p>
   </section>
   <!-- footer section -->

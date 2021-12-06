@@ -1,7 +1,7 @@
 body {
   font-family: 'Poppins', sans-serif;
 
-  color: #48494a;
+  color: #000000;
   background-image: url(../images/body-bg.jpg);
 }
 
@@ -31,7 +31,7 @@ body {
   border-radius: 10px;
   font-size: 15px;
   text-transform: uppercase;
-  background-color: #fec913;
+  background-color: #081c91;
   border: 1px solid transparent;
   color: #fff;
   transition: all 0.3s ease 0s;
@@ -161,7 +161,7 @@ a:focus {
 .navbar-brand span {
   font-size: 20px;
   font-weight: 700;
-  color: #fefefe;
+  color: #0e0258;
 }
 
 .custom_nav-container {
@@ -196,13 +196,13 @@ a:focus {
 }
 
 .hero_detail-box {
-  color: #fefeff;
+  color: #000000;
 }
 
 .hero_detail-box h1 {
   text-transform: uppercase;
   font-size: 50px;
-  color: #fec913;
+  color: #0e0258;
   font-weight: bold;
 }
 
@@ -253,8 +253,11 @@ a:focus {
   height: 50px;
   background-color: #082465;
   border-radius: 100%;
+  border-style: dotted;
+  border-color: #082465;
   background-size: 10px;
   background-position: center;
+  color: #fff;
 }
 
 .vehicle_section .carousel-control-prev-icon {
@@ -350,7 +353,7 @@ a:focus {
   padding: 7px 50px;
   text-transform: uppercase;
   margin-top: 25px;
-  background-color: #fec913;
+  background-color: #082465;
   color: #fff;
 }
 
@@ -392,7 +395,7 @@ a:focus {
 }
 
 .admission_detail .admission_btn {
-  background-color: #fec913;
+  background-color: #082465;
   padding: 7px 35px;
   color: #fefeff;
   font-size: 15px;
@@ -408,7 +411,7 @@ a:focus {
 }
 
 .landing_section .number_heading {
-  color: #fec913;
+  color: #082465;
 }
 
 .landing_section p {
@@ -433,6 +436,23 @@ a:focus {
 }
 
 .footer_section a {
+  color: #fdfdfe;
+}
+.footer_section2 {
+    padding: 20px;
+    background: #010755;
+    color: #ffffff;
+    position: fixed;
+    bottom: 0px;
+}
+
+.footer_section2 p {
+  color: #fdfdfe;
+  margin: 0;
+  text-align: center;
+}
+
+.footer_section2 a {
   color: #fdfdfe;
 }
 
