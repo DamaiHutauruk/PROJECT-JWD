@@ -5,7 +5,8 @@ namespace App;
 use Illuminate\Database\Eloquent\Model;
 
 class Pesdik extends Model
-{
+{  
+    //model sebagai tempat database berada
     protected $table = 'pesdik';
     protected $fillable  = [
                             'jenjang_daftar','nama_sekolah_asal','alamat_sekolah_asal','tahun_lulus',

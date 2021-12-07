@@ -12,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title>PPDB Online PKBM Kita Bersama</title>
+  <title>Kita Bersama | {{ $siteTitle }}</title>
 
 
 

@@ -1,4 +1,8 @@
 @extends('layouts.master_content')
+<!--
+    memanggil section pada master_content di folder layouts
+
+-->
 @section('judul')
     <section class="client_section layout_padding">
       <div class="container">

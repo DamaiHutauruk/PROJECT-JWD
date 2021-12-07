@@ -81,7 +81,7 @@
   <!-- end header section -->
 
     @yield('content')
-
+  <!-- isi dari file pada folder pesdik akan diletakan disini -->
 
   <!-- footer section -->
   <section class="container-fluid footer_section">

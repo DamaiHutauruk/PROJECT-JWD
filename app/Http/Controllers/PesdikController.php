@@ -11,18 +11,19 @@ class PesdikController extends Controller
 {
     public function form_daftar()
     {
-        return view('pesdik.form_daftar');
+        return view('pesdik.form_daftar', ["siteTitle" => 'Form']);
     }
     
     public function lihat_pendaftar()
     {
+        //menampilkan seluruh data peserta dan menampilkannya dalam bentuk tabel dengan memamnggil variabel menggunakan fungsi compact
         $data_pesdik = \App\Pesdik::all();
-        return view('pesdik.lihat_pendaftar', compact('data_pesdik'));
+        return view('pesdik.lihat_pendaftar' , compact('data_pesdik') , ["siteTitle" => 'Peserta']);
     }
 
     public function alur_pendaftaran()
     {
-        return view('pesdik.alur_pendaftaran');
+        return view('pesdik.alur_pendaftaran', ["siteTitle" => 'Alur']);
     }
 
     public function daftar (Request $request)
@@ -47,6 +48,7 @@ class PesdikController extends Controller
             'nik_ibu'              => 'min:16|numeric',
 
         ]);
+        //menerima data masukan dari user, dan akan dikirim ke model
         $pesdik = new Pesdik();
         $pesdik->jenjang_daftar             = $request->input('jenjang_daftar');
         $pesdik->nama_sekolah_asal          = $request->input('nama_sekolah_asal');
@@ -84,14 +86,16 @@ class PesdikController extends Controller
       
         $pesdik->save();
 
-        return view('/pesdik/detail', compact('pesdik'));
+        //menampilkan data peserta dengan memamnggil variabel menggunakan fungsi compact
+        return view('/pesdik/detail', compact('pesdik') , ["siteTitle" => 'Data Peserta']);
 
     }
 
     public function detail($id_pesdik)
     {
         $pesdik = \App\Pesdik::find($id_pesdik);
-        return view('/pesdik/detail', compact('pesdik'));
+        //menampilkan data peserta berdasarkan id peserta yang dipilih
+        return view('/pesdik/detail' ,  compact('pesdik') , ["siteTitle" => 'Data Peserta']);
     }
 
     public function cetak_biodata($id_pesdik)

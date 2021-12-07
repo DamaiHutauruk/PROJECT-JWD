@@ -1,4 +1,7 @@
 @extends('layouts.master')
+<!--
+    memanggil section pada master di folder layouts untuk dapat ditampilkan disini
+-->
 @section('header')
 <section class="client_section">
       <div class="hero-container container">
